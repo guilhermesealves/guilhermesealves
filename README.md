@@ -1,6 +1,6 @@
 ## Olá meu nome é Guilherme Seleri Alves
 
-- 🕮 Hoje estudo Front-end
+- 🕮 Front-End Developer
 - 🚀 Evoluindo cada vez mais
 
 
