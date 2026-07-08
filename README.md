@@ -1,4 +1,3 @@
-## Olá meu nome é Guilherme Seleri Alves
 
 - 🕮 Front-End Developer
 
